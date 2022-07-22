@@ -26,16 +26,16 @@ The application implemented through the actual learned model can run the file `E
 
 ## Result
 ### Style
-<p align="center"><img src="./image/house(2).png" width = "400" ></p>
-<p align="center"><img src="./image/house(3).png" width = "400" ></p>
-<p align="center"><img src="./image/house(4).png" width = "400" ></p>
+<p align="center"><img src="./image/house(2).png" width = "300" >
+<img src="./image/house(3).png" width = "324" ></p>
+<p align="center"><img src="./image/house(4).png" width = "350" ></p>
 <p align="center"><img src="./image/house(8).png" width = "400" ></p>
 
 ### Factor
-<p align="center"><img src="./image/house(5).png" width = "400" ></p>
-<p align="center"><img src="./image/house(6).png" width = "400" ></p>
-<p align="center"><img src="./image/house(7).png" width = "400" ></p>
-<p align="center"><img src="./image/house(9).png" width = "400" ></p>
+<p><img src="./image/house(5).png" width = "300" >
+<img src="./image/house(6).png" width = "324" ></p>
+<p align="center"><img src="./image/house(7).png" width = "350" ></p>
+<p align="center"><img src="./image/house(9).png" width = "500" ></p>
 
 ## Significance
 ### Abstract
