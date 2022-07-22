@@ -32,7 +32,7 @@ The application implemented through the actual learned model can run the file `E
 <p align="center"><img src="./image/house(8).png" width = "400" ></p>
 
 ### Factor
-<p><img src="./image/house(5).png" width = "300" >
+<p align="center"><img src="./image/house(5).png" width = "300" >
 <img src="./image/house(6).png" width = "324" ></p>
 <p align="center"><img src="./image/house(7).png" width = "350" ></p>
 <p align="center"><img src="./image/house(9).png" width = "500" ></p>
