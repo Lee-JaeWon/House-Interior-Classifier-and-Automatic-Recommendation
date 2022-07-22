@@ -88,7 +88,9 @@ list_tmp = pred[0][0][0]
 tmp = max(list_tmp)
 tmp2 = np.where(tmp == list_tmp)
 index = tmp2[0][0]
-categories_style = ["casual", "modern", "classic", "natural"]
+categories_style = ["casual", "classic", "modern", "natural"]
+print()
+print("Probability : ")
 print(list_tmp);print()
 
 style = categories_style[index]
@@ -109,6 +111,8 @@ tmp = max(list_tmp)
 tmp2 = np.where(tmp == list_tmp)
 index = tmp2[0][0]
 categories_factor = ["cold", "neutral", "warm"]
+print()
+print("Probability : ")
 print(list_tmp);print()
 
 factor = categories_factor[index]
