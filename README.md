@@ -1,6 +1,11 @@
 # House-Interior-Classifier-and-Automatic-Recommendation
 2022 spring deep learning class project. It categorizes the house interior and searches automatically.<br><br>
 
+## Abstract
+when users provide house interior photos, they are classified as Style and Factor accordingly based on CNN. Search words can be recommended according to the user's desired furniture and classification results.<br>
+We can pursue an application that recommends furniture only by providing pictures without having to search for the furniture they want for a long time, and this report provides a function to recommend search words and automatically search.<br>
+In particular, due to the characteristic of the house interior, the producer's subjectivity may be included when collecting and labeling data, so clear standards are set and datasets are produced.
+
 ## Environment
 0. windows<br>
 1. python = 3.8
@@ -38,11 +43,6 @@ The application implemented through the actual learned model can run the file `E
 <p align="center"><img src="./image/house(9).png" width = "500" ></p>
 
 ## Significance
-### Abstract
-when users provide house interior photos, they are classified as Style and Factor accordingly based on CNN. Search words can be recommended according to the user's desired furniture and classification results.<br>
-We can pursue an application that recommends furniture only by providing pictures without having to search for the furniture they want for a long time, and this report provides a function to recommend search words and automatically search.<br>
-In particular, due to the characteristic of the house interior, the producer's subjectivity may be included when collecting and labeling data, so clear standards are set and datasets are produced.
-
 ### Conclusion
 Learning, dataset production, and actual classification were all successfully implemented, and they could be evaluated numerically.<br>
 We also implemented the function of presenting search terms and automatically searching. Because it is the meaning of the technology that does not end in learning and actually allows users to use this technology conveniently.<br>
